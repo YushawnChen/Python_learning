@@ -27,4 +27,5 @@ for price in prices:
 print()
 print(f"The total amount is {total:.2f}")
 
+
         
