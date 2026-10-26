@@ -11,4 +11,3 @@ elif unit == "C":
     print(f"The temperture is {temp} {unit}")
 else:
     print(f"{unit} is a invaild input, please try again.")
-             
