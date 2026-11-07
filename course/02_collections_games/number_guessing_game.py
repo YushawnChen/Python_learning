@@ -10,14 +10,17 @@ highest_number = 100
 
 answer = random.randint(lowest_number, highest_number)
 
-time_guess = 1
+time_guess = 0
 is_runing = True
 
 while is_runing:
     guess = input("Hey, plz enter your guess:")
-    time_guess += 1
     if guess.isdigit():
         guess = int(guess)
+        if not lowest_number <= guess <= highest_number:
+            print(f"Please choose a number from {lowest_number} to {highest_number}.")
+            continue
+        time_guess += 1
         if guess > answer:
             print("You almost there! But your answer is too high")
         elif guess < answer:
