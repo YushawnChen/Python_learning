@@ -6,7 +6,7 @@ questions = (("What is the capital city of France?"),
 options = (("A.Lyon","B.Paris", "C.Shanghai", "D.Fuzhou"),
            ("A.Seven", "B.Nine", "C.Eight", "D.Ten"),
            ("A.H2O", "B.CO2", "C.HO2", "D.H2O2"),
-           ("A.Elon Mask", "B.Mark Zuckerberg", "C.Leijun", "D.Charles Dickens"))
+           ("A.Elon Mask", "B.Mark Zuckerberg", "C.Leijun", "D.William Shakespeare"))
 
 answers = (("B"), ("C"), ("A"), ("D"))
 
