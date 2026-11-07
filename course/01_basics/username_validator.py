@@ -5,7 +5,7 @@
 
 username = input("Enter your name: ")
 
-if len(username) >= 12:
+if len(username) > 12:
     print("Sorry, you need to short the name")
 elif username.count(" ") != 0:
     print("Sorry, you can't use space")
