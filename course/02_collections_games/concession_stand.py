@@ -25,7 +25,7 @@ for food in cart:
 
 print("-------------Cart--------------")
 
-print(f"You have choose: {" ".join(cart)}")
+print(f"You have choose: {' '.join(cart)}")
 
 print("-------------Bill--------------")
 
