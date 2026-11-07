@@ -2,9 +2,9 @@
 
 Python practice by [Yushawn Chen](https://github.com/YushawnChen), building toward applied AI engineering internships.
 
-This repository documents my Python foundations through small, runnable exercises and a record of what I improve. It is the learning layer of my portfolio; independent applications will be linked separately when they exist.
+Ten small command-line exercises covering input validation, loops, collections and random choices, with runnable examples and focused regression checks. This repository tracks my Python foundations and the improvements I make along the way.
 
-**Current stage · 7 November 2026:** following Bro Code's Python course, around four hours watched (self-reported). **10 exercise scripts uploaded.** Functions and later topics are next; watching progress is not a claim of mastery.
+**Current stage · 7 November 2026:** following Bro Code's Python course, approximately four hours in. **10 exercise scripts uploaded.** Next: functions and modules.
 
 ## Start here
 
@@ -14,7 +14,7 @@ This repository documents my Python foundations through small, runnable exercise
 | [Rock, paper, scissors](course/02_collections_games/rock_paper_scissors.py) | Input validation, random choice and session win/loss tracking | `python3 course/02_collections_games/rock_paper_scissors.py` |
 | [Shopping cart](course/02_collections_games/shopping_cart.py) | Collecting multiple items and accumulating a total | `python3 course/02_collections_games/shopping_cart.py` |
 
-These are **course-based exercises**, not original product projects. My small local variations include PLN prices and session statistics; they are practice, not evidence of production or AI engineering experience.
+These are **course-based exercises**, with local adaptations including PLN prices and session statistics. [Independent applications](projects/README.md) have a separate entry point and will be featured when built.
 
 ## Run and check
 
@@ -58,12 +58,12 @@ My target is an applied AI engineering internship around **July 2027**. The next
 2. Build an independent Python application with persistent data, a documented API integration and reproducible setup.
 3. Publish a focused AI application with a demo, a small evaluation set, measured failure cases, and latency/cost observations.
 
-These are plans. No AI application or independent portfolio project is published in this repository yet. Completed applications will get a short case study and a direct link here, so reviewers can reach the strongest evidence quickly.
+These milestones are planned; independent applications are not published yet. Completed applications will get a short case study and a direct link here.
 
 ## Source and assistance
 
-Course reference: [Bro Code — Python Full Course for free](https://www.youtube.com/watch?v=ix9cRaBkVe0). Exercises follow or adapt course material; credit remains with its original creator. No ownership or licensing rights over the original course material are asserted here.
+Course reference: [Bro Code — Python Full Course for free](https://www.youtube.com/watch?v=ix9cRaBkVe0). Exercises follow or adapt the course; credit goes to Bro Code.
 
-The November 2026 repository organization, documentation and selected bug fixes/checks were prepared with AI assistance. They do not imply that I independently designed all of this structure or have already mastered the upcoming topics. The original learning commits remain in Git history.
+Repository organization, documentation and selected bug fixes/checks were prepared with AI assistance in November 2026. The original learning commits remain in Git history.
 
 Profile: [github.com/YushawnChen](https://github.com/YushawnChen)
